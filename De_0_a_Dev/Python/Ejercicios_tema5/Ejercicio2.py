@@ -43,8 +43,8 @@ def esPrimo3():
     i = 1
     #Cantidad  de 0
     c = 0
-
-    #Para i que es nuestro hasta nuestro número ingresado.
+    
+    #Para i que es nuestro iterador el número ingresado.
     while i <= numero:
         if numero % i == 0:
             c = c + 1
