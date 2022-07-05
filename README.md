@@ -4,7 +4,7 @@
 
 Temas:
 - [x] Introducción a la programación
-- [ ] Python
+- [x] Python
 - [ ] Java Básico
 - [ ] HTML y CSS
 - [ ] Spring
