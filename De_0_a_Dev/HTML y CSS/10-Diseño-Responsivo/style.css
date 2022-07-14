@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
@@ -10,25 +10,25 @@ body {
     font-size: 2rem;
 }
 
-div.sidebar {
+div.sidebar{
     background-color: #2b2b2b;
     color: white;
     display: flex;
     flex-direction: column;
     padding: 10px;
-    gap: 10px;
+    gap: 10px;    
 }
 
-div.main {
+div.main{
     padding: 10px;
     flex-grow: 1;
 }
 
-@media (max-width: 640px) {
-    body {
+@media (max-width: 640px){
+    body{
         flex-direction: column-reverse;
     }
-    div.sidebar {
+    div.sidebar{
         flex-direction: row;
         justify-content: space-evenly;
     }
