@@ -6,7 +6,7 @@ Temas:
 - [x] Introducción a la programación
 - [x] Python
 - [ ] Java Básico
-- [ ] HTML y CSS
+- [x] HTML y CSS
 - [ ] Spring
 - [ ] JavaScript Básico
 - [ ] ReactJS
