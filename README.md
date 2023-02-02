@@ -5,8 +5,8 @@
 Temas:
 - [x] Introducción a la programación
 - [x] Python
-- [ ] Java Básico
+- [x] Java Básico
 - [x] HTML y CSS
 - [ ] Spring
-- [ ] JavaScript Básico
+- [x] JavaScript Básico
 - [ ] ReactJS
